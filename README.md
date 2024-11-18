@@ -1,5 +1,9 @@
 # iot-ti-ta-integration
-Devido ao tamanho do projeto, por enquanto está no drive: https://drive.google.com/drive/folders/1R-PCmGsQxgBLUHSn0TjFAI61nTSDnIVb?usp=sharing
+
+Due to the size of the project, there is no drive for now: https://drive.google.com/drive/folders/1R-PCmGsQxgBLUHSn0TjFAI61nTSDnIVb?usp=sharing
+
+
+⚙️ Learning Project: IoT Integration and IT/OT Connection ⚙️
 
 I’d like to share a project I recently developed to enhance my skills in IoT and integration between IT and OT! This project involved visualizing temperature sensor variations, simulated using a potentiometer.
 
